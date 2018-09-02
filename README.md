@@ -7,3 +7,17 @@ At the end of the Beta, we will be charging a reasonable subscription fee in the
 During the beta, we will likely be reaching out to you proactively! We want to understand what you like, don't like, need, hate, want, wish it wasn't and info about your musical group! 
 
 Please contact us with any questions, concerns, or ideas at info@adiohub.com.
+
+
+## Supported Browsers
+
+### Desktop
+- Any modern browser: Chrome, Edge, Firefox, Safari
+- NOT Internet Explorer
+
+### iOS
+- Safari
+- Not Chrome for iOS
+
+### Android
+- Chrome
